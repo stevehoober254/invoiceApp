@@ -1,8 +1,10 @@
 # Mobile Invoice App
 
-![Logo](app-logo.png)
-
 The Mobile Invoice App is a mobile application that allows users to generate invoices for a given list of products and export them as PDF documents. With this app, users can easily create professional invoices on the go, making it convenient for small businesses and freelancers.
+
+## Screenshots
+
+![Onboarding](assets/shot.png)
 
 ## Features
 
